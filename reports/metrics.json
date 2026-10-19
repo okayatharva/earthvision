@@ -1,0 +1,81 @@
+{
+  "accuracy": 0.899530980004937,
+  "macro_precision": 0.9030720944772735,
+  "macro_recall": 0.8941406750431142,
+  "macro_f1": 0.8960583923840254,
+  "classification_report": {
+    "AnnualCrop": {
+      "precision": 0.8493975903614458,
+      "recall": 0.94,
+      "f1-score": 0.8924050632911392,
+      "support": 450.0
+    },
+    "Forest": {
+      "precision": 0.9646799116997793,
+      "recall": 0.9711111111111111,
+      "f1-score": 0.9678848283499446,
+      "support": 450.0
+    },
+    "HerbaceousVegetation": {
+      "precision": 0.9093023255813953,
+      "recall": 0.8669623059866962,
+      "f1-score": 0.887627695800227,
+      "support": 451.0
+    },
+    "Highway": {
+      "precision": 0.9383561643835616,
+      "recall": 0.7306666666666667,
+      "f1-score": 0.8215892053973014,
+      "support": 375.0
+    },
+    "Industrial": {
+      "precision": 0.9333333333333333,
+      "recall": 0.8586666666666667,
+      "f1-score": 0.8944444444444445,
+      "support": 375.0
+    },
+    "Pasture": {
+      "precision": 0.9434628975265018,
+      "recall": 0.89,
+      "f1-score": 0.9159519725557461,
+      "support": 300.0
+    },
+    "PermanentCrop": {
+      "precision": 0.8770949720670391,
+      "recall": 0.8373333333333334,
+      "f1-score": 0.8567530695770805,
+      "support": 375.0
+    },
+    "Residential": {
+      "precision": 0.8519924098671727,
+      "recall": 0.9977777777777778,
+      "f1-score": 0.9191402251791198,
+      "support": 450.0
+    },
+    "River": {
+      "precision": 0.8084577114427861,
+      "recall": 0.8666666666666667,
+      "f1-score": 0.8365508365508365,
+      "support": 375.0
+    },
+    "SeaLake": {
+      "precision": 0.9546436285097192,
+      "recall": 0.9822222222222222,
+      "f1-score": 0.968236582694414,
+      "support": 450.0
+    },
+    "accuracy": 0.899530980004937,
+    "macro avg": {
+      "precision": 0.9030720944772735,
+      "recall": 0.8941406750431142,
+      "f1-score": 0.8960583923840254,
+      "support": 4051.0
+    },
+    "weighted avg": {
+      "precision": 0.9025971684157819,
+      "recall": 0.899530980004937,
+      "f1-score": 0.8985577094156574,
+      "support": 4051.0
+    }
+  }
+}

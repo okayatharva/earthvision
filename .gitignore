@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and tests
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Downloaded dataset
+data/
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
